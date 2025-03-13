@@ -1,0 +1,66 @@
+
+
+   ?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?
+
+     PerlEQ v1.0 :  SAFE TAXONOMIC REDUCTION
+
+   ?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?
+
+       Mark Wilkinson  &  Jonathan Jeffery
+         NHM, London        Univ. Leiden
+          (Brains)             (Code)
+
+            "Still ain't fancy..."
+
+
+What file do you want to use?
+Enter the name of a file in the local directory, or a file-path.
+File must be in Nexus format:
+   
+Specify or create the name for the output files
+The program will save a data (.htm) and a nexus (.nex) file
+Filenames of more than 25 characters will be shortened:
+   
+No Typesets detected - name a Nexus format assumptions file, or assume
+   1 All unordered
+   2 All ordered
+   3 All Dollo up
+   4 All Dollo down
+   5 All irreverable up
+   6 All irreverable down
+   (current default is 'unord')
+   
+
+???????????????????????????????????????????????????????????????????????????
+
+ Running analysis (this may take quite a while for really large data sets)
+
+???????????????????????????????????????????????????????????????????????????
+
+Percent Completed:
+
+**   5% - 00h, 00m, 00s elapsed since last check  **
+**  10% - 00h, 00m, 00s elapsed since last check  **
+**  15% - 00h, 00m, 00s elapsed since last check  **
+**  20% - 00h, 00m, 00s elapsed since last check  **
+**  25% - 00h, 00m, 00s elapsed since last check  **
+**  30% - 00h, 00m, 00s elapsed since last check  **
+**  35% - 00h, 00m, 00s elapsed since last check  **
+**  40% - 00h, 00m, 00s elapsed since last check  **
+**  45% - 00h, 00m, 00s elapsed since last check  **
+**  50% - 00h, 00m, 00s elapsed since last check  **
+**  55% - 00h, 00m, 00s elapsed since last check  **
+**  60% - 00h, 00m, 00s elapsed since last check  **
+**  65% - 00h, 00m, 00s elapsed since last check  **
+**  70% - 00h, 00m, 00s elapsed since last check  **
+**  75% - 00h, 00m, 00s elapsed since last check  **
+**  80% - 00h, 00m, 00s elapsed since last check  **
+**  85% - 00h, 00m, 00s elapsed since last check  **
+**  90% - 00h, 00m, 00s elapsed since last check  **
+**  95% - 00h, 00m, 00s elapsed since last check  **
+** 100% - 00h, 00m, 00s elapsed since last check  **
+
+Run took 0d, 0h, 0m, 0s
+
+Hope it worked!
+
