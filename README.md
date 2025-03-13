@@ -1,5 +1,5 @@
 # *** CONCATABOMINATION PIPELINE ***
-
+ 
 1) TO INSTALL:
 
 You need a unix-based system (Mac OS X or Linux). You will also need to have perl installed.
